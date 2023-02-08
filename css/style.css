@@ -1,0 +1,236 @@
+/* .topA {
+    display:block;
+    float: left;
+    color: brown;
+    background-color: white;
+    border: 5px solid black;
+    padding: 10px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 10px 10px 0px brown;
+}
+
+#veziMM{
+    color: rgb(85, 42, 165);
+    background-color: rgb(255, 255, 255);
+   
+}
+ */
+
+body {
+    background-color: darkolivegreen;
+    text-align: center;
+}
+
+header {
+    background-color: darkolivegreen;
+    display: block;
+    min-height: 60px;
+}
+
+.headerContent {
+    max-width: 900px;
+    min-width: 900px;
+    margin: 0 auto;
+    background-color: green;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.linkClass {
+    max-width: 900px;
+    min-width: 900px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.headerContent ul li {
+    display: inline-block;
+    background-color: black;
+}
+
+.topA {
+    display: block;
+    float: left;
+    color: rgb(12, 26, 69);
+    background-color: darkolivegreen;
+    border: 25px solid darkolivegreen;
+    padding: 10px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: larger;
+}
+
+
+
+h3 {
+    background-color: aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: large;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+h1{
+    margin: 20px 20px;
+    font-size: large;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: rgb(52, 30, 72);
+    font-weight: 900;
+}
+
+h2{
+    margin: 20px 20px;
+    display: block;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(103, 4, 65);
+}
+
+h5{
+    margin: 10px 10px;
+}
+
+article{
+    margin: 20px 20px;
+    display: block;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(21, 21, 39);
+}
+
+p{
+    margin: 20px 20px;
+    display: block;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(21, 21, 39);  
+}
+
+.pContent{
+
+    margin: 10px 10px;
+    color: rgb(47, 4, 4);
+    padding: 10px 10px;
+    display: block;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+footer{
+    margin: 20px 20px;
+}
+
+.Parteneri{
+    display: block;
+    text-align: center;
+    margin: 10px 10px;
+}
+
+.Link{
+    text-align: center;
+
+}
+
+.linkA{
+    display: inline;
+    color: black;
+}
+
+table , th , tr, td{
+text-align: center;
+border: 5px solid;
+font-size: larger;
+}
+
+.table { 
+    margin:0 auto;
+    max-width:900px
+}
+
+table {
+    margin:0 auto;
+    background-color: white;
+    border: solid
+}
+
+.art1{
+    border: 10px 10px;
+    margin: 10px 10px;
+    border: solid;
+    background-color: black;
+    
+}
+
+.tabel1{
+    border: 10px 10px;
+    margin: 10px 10px;
+    border: solid;
+    background-color: aquamarine;
+    max-width: 45%;
+    float:left;
+    padding: 10px 10px;
+}
+
+.art2{
+    border: 10px 10px;
+    margin: 10px 10px;
+    border: solid;
+    background-color: black;
+}
+
+.tabel2{
+    border: 10px 10px;
+    margin: 10px 10px;
+    border: solid;
+    background-color: aquamarine;
+    max-width: 45%;
+    float:right;
+    padding: 10px 10px;
+    padding-bottom: 235px;
+}
+
+.art3{
+    border: 10px 10px;
+    margin: 10px 10px;
+    border: solid;
+    background-color: black;
+    display: inline-block;
+}
+
+.tabel3{
+    border: 10px 10px;
+    margin: 10px 10px;
+    border: solid;
+    background-color: aquamarine;
+    max-width: 45%;
+    float:left;
+    padding: 10px 10px;
+    padding-bottom: 35px;
+}
+
+.art4{
+    border: 10px 10px;
+    margin: 10px 10px;
+    border: solid;
+    background-color: black;
+    display: inline-block;
+}
+
+.tabel4{
+    border: 10px 10px;
+    margin: 10px 10px;
+    border: solid;
+    background-color: aquamarine;
+    max-width: 45%;
+    float:right;
+    padding: 10px 10px;
+    padding-bottom: 10px;
+}
+
+
